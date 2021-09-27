@@ -1,2 +1,2 @@
 # My-CV-CSS-edit
-CSS-extended version of My-CV
+https://ruslan-7e.github.io/My-CV-CSS-edit/
